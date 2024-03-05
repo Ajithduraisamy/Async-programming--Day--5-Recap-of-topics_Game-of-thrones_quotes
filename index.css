@@ -1,0 +1,16 @@
+.col-md-4{
+    margin-top: 20px;
+}
+.col-md-12{
+    background-color: goldenrod;
+    color: grey;
+    border-radius: 10px;
+    text-align: center;
+}
+.list-group-item{
+    background-color: cadetblue;
+    color: whitesmoke;
+}
+.card-header{
+    color: crimson;
+}
